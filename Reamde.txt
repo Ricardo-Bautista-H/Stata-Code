@@ -1,0 +1,1 @@
+Coding of Stata for courses and personal projects applying data manipulation and econometrics
